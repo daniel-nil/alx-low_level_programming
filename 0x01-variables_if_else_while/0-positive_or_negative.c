@@ -16,7 +16,7 @@ printf("%d is positive\n", n);
 }
 if (n < 0)
 {
-printf("%d is neagtive\n", n);
+printf("%d is negative\n", n);
 }
 if (n == 0)
 {
